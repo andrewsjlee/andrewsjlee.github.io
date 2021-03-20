@@ -1,5 +1,5 @@
 # Personal website
 
-URL andrewsjlee.github.io redirects to andrewslee.me
+Under construction. Once completed this website will showcase my portfolio.
 
-Under construction
+URL andrewsjlee.github.io redirects to andrewslee.me
